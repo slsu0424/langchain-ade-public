@@ -1,0 +1,40 @@
+Dr. Emily Thompson  
+Chief Medical Officer  
+ABC Medical Center  
+November 16, 2023  
+
+123 Main Street  
+Anytown, USA 12345  
+emily.thompson@abcmedicalcenter.com  
+(555) 555-1234  
+
+FDA Adverse Event Reporting System (FAERS) Program  
+Food and Drug Administration (FDA)  
+5600 Fishers Lane  
+Rockville, MD 20857  
+
+Subject: Adverse Event Report for Warfarin (NDA 987654)  
+
+Dear FDA Adverse Event Reporting System (FAERS) Program,
+
+I am writing to submit a detailed narrative of an adverse event associated with the use of warfarin (NDA 987654).
+
+On November 10, 2023, Mr. John Doe, a 65-year-old male with a medical history of hypertension and atrial fibrillation, was brought to our attention at ABC Medical Center. The patient had been prescribed warfarin (5 mg daily) for his atrial fibrillation.
+
+Dr. Thompson, Chief Medical Officer at ABC Medical Center, received reports of Mr. Doe presenting with excessive bruising, petechiae, and gum bleeding. Concerned about the possibility of an adverse event related to warfarin, a thorough examination was conducted.
+
+Relevant clinical findings included an elevated INR of 5.2 and prolonged bleeding times. Laboratory data indicated that the platelet count was within the normal range. Concurrently, Mr. Doe was taking lisinopril (10 mg daily) and aspirin (81 mg daily).
+
+In response to the observed adverse event, immediate medical interventions were implemented. Warfarin was discontinued, and the patient received vitamin K supplementation and a platelet transfusion. Subsequent to these interventions, Mr. Doe's condition stabilized, and no long-term sequelae were observed.
+
+The suspected causality of the adverse event was attributed to the administration of warfarin, given the temporal relationship between drug intake and the onset of bleeding symptoms. It is noteworthy that Mr. Doe had been compliant with his medication regimen, and there were no recent changes in other medications or lifestyle factors.
+
+We are committed to providing any additional information or clarification necessary for the investigation of this adverse event. Your prompt attention to this matter is highly appreciated, and we look forward to your guidance on further actions.
+
+Sincerely,
+
+Dr. Emily Thompson  
+Chief Medical Officer  
+ABC Medical Center  
+emily.thompson@abcmedicalcenter.com  
+(555) 555-1234
